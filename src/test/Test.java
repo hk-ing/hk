@@ -7,5 +7,6 @@ package test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("git练习");
+        System.out.println("git222练习");
     }
 }
