@@ -12,5 +12,6 @@ public class Test {
         System.out.println("git444练习");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
